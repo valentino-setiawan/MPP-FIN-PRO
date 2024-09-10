@@ -317,7 +317,10 @@
   
   .menu .row .menu-card img {
     border-radius: 50%;
-    width: 80%;
+    width: 30rem;
+    height: 25rem;
+    /* object-fit: contain; */
+    padding: 2rem;
   }
   
   .menu .row .menu-card .menu-card-title {
