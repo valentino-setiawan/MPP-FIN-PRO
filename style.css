@@ -176,7 +176,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("WhatsApp\ Image\ 2024-09-10\ at\ 09.50.20_3bf4374a.jpg");
+  background-image: url(heroBG.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
